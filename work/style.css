@@ -1,0 +1,42 @@
+Html
+{
+	font-family: 'Supermercado One', cursive;
+	font-size:5px;
+	background-color:rgba(255, 0, 0, 0.3);
+}
+h1
+{
+color:red;
+text-align:center;
+font-size:50px;
+}
+p
+{
+	font-size: 16px;  
+    line-height: 2;
+    letter-spacing: 1px;
+    font-size:20px;
+}
+
+ul
+{
+	color:red;
+	font-size:25px
+}
+img
+{
+	
+	display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+body {
+  width: 700px;
+  margin: 0px 250px;
+  background-color: #9CA5A7;
+  padding: 0 20px 20px 50px;
+  border: 5px solid blue;
+}
+
